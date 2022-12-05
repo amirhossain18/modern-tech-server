@@ -1,0 +1,31 @@
+[{
+    "id": 1,
+    "category": "Javascript",
+    "img": "https://i.ibb.co/Gn4k2wz/1-M-GDn6-RXZSZC66kvr-MHh5-Q.png",
+    "time":"6 months"
+  }, {
+    "id": 2,
+    "category": "React",
+    "img": "https://i.ibb.co/HKsxzst/React-icon-svg.png",
+    "time":"6 months"
+  }, {
+    "id": 3,
+    "category": "Node",
+    "img": "https://i.ibb.co/jwhGtvP/nodejs-cover-photo-smaller-size.png",
+    "time":"6 months"
+  }, {
+    "id": 4,
+    "category": "MongoDB",
+    "img": "https://i.ibb.co/rpfW0FR/1-do-Ag1-f-MQKWFoub-6gw-Ui-Q.png",
+    "time":"6 months"
+  }, {
+    "id": 5,
+    "category": "PHP",
+    "img": "https://i.ibb.co/qdw3phv/download.png",
+    "time":"6 months"
+  }, {
+    "id": 6,
+    "category": "Paython",
+    "img": "https://i.ibb.co/rkw0wSj/1200px-Python-svg.png",
+    "time":"6 months"
+  }]
