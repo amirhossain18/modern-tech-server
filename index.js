@@ -7,7 +7,7 @@ const category = require('../modern-tech-server/Catagory.json')
 // const catagoryDetails = require('../modern-tech-server/CourseDetails.json')
 
 app.get('/', (req, res) =>{
-    res.send('wellcome')
+    res.send('wellcome to modern ')
 })
 app.get('/courses', (req, res) =>{
     res.send(category)
