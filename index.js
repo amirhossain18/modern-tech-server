@@ -3,7 +3,7 @@ const app = express()
 const port = process.env.PORT || 5000;
 const cors = require('cors')
 app.use(cors())
-const category = require('../modern-tech-server/Catagory.json')
+const category = require('./Catagory.json')
 
 
 app.get('/', (req, res) =>{
