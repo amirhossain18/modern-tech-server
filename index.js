@@ -4,10 +4,10 @@ const port = process.env.PORT || 5000;
 const cors = require('cors')
 app.use(cors())
 const category = require('../modern-tech-server/Catagory.json')
-// const catagoryDetails = require('../modern-tech-server/CourseDetails.json')
+
 
 app.get('/', (req, res) =>{
-    res.send('wellcome to modern ')
+    res.send('wellcome')
 })
 app.get('/courses', (req, res) =>{
     res.send(category)
